@@ -44,6 +44,11 @@ O firmware utiliza:
 
 Todas as requisicoes incluem o header `x-gateway-token`.
 
+## Testes
+
+O plano de compilacao e os testes funcionais do hardware estao documentados na
+pasta `tests`.
+
 ## Licenca
 
 O codigo deste projeto esta disponivel sob a licenca MIT. Bibliotecas externas
